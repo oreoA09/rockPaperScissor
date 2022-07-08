@@ -26,3 +26,5 @@ Building with Python
     If it's a tie (the computer and player pick the same move), restart the game from step 3
 
 #Give it a try yourself!!
+
+# Run main.py here: https://github.com/oreoA09/rockPaperScissor
